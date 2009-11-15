@@ -15,4 +15,5 @@ class Config {
 	}
 }
 
+// Default config directory.
 Config::$path = __DIR__ . '/../config';
