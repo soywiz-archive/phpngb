@@ -1,0 +1,1 @@
+A bulletin board system made using new php5.3 features to maintain the script simple and efficient. In addition optionally uses javascript to improve navigability.
